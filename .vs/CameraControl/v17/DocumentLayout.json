@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|c:\\users\\pkhumalo\\downloads\\edsdkv131840w\\edsdkv131840w\\windows\\sample\\csharp\\cameracontrol\\cameracontrol\\remotecapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|solutionrelative:cameracontrol\\remotecapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|c:\\users\\pkhumalo\\downloads\\edsdkv131840w\\edsdkv131840w\\windows\\sample\\csharp\\cameracontrol\\cameracontrol\\remotecapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|solutionrelative:cameracontrol\\remotecapture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\cameracontrol\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|solutionrelative:cameracontrol\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\cameracontrol\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|solutionrelative:cameracontrol\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\cameracontrol\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{336F7334-8DAD-4D82-A8E5-1A9ACCC4AB62}|CameraControl\\CameraControl.csproj|solutionrelative:cameracontrol\\cameramodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoteCapture.cs",
+              "DocumentMoniker": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\RemoteCapture.cs",
+              "RelativeDocumentMoniker": "CameraControl\\RemoteCapture.cs",
+              "ToolTip": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\RemoteCapture.cs",
+              "RelativeToolTip": "CameraControl\\RemoteCapture.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAAAgwBUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:10:44.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RemoteCapture.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\RemoteCapture.cs",
+              "RelativeDocumentMoniker": "CameraControl\\RemoteCapture.cs",
+              "ToolTip": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\RemoteCapture.cs [Design]",
+              "RelativeToolTip": "CameraControl\\RemoteCapture.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:10:41.448Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CameraModel.cs",
+              "DocumentMoniker": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\CameraModel.cs",
+              "RelativeDocumentMoniker": "CameraControl\\CameraModel.cs",
+              "ToolTip": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\CameraModel.cs [Read Only]",
+              "RelativeToolTip": "CameraControl\\CameraModel.cs [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T13:09:59.762Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\MainWindow.cs",
+              "RelativeDocumentMoniker": "CameraControl\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\MainWindow.cs",
+              "RelativeToolTip": "CameraControl\\MainWindow.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:21:31.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\MainWindow.cs",
+              "RelativeDocumentMoniker": "CameraControl\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\pkhumalo\\Downloads\\EDSDKv131840W\\EDSDKv131840W\\Windows\\sample\\CSharp\\CameraControl\\CameraControl\\MainWindow.cs [Design]",
+              "RelativeToolTip": "CameraControl\\MainWindow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-12T12:21:23.77Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
